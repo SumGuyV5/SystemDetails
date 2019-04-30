@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "System Details", "System Details\System Details.vcproj", "{1A42B690-DBF5-4641-9390-8FFB3E18A2A2}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SystemDetailsInstaller", "SystemDetailsInstaller\SystemDetailsInstaller.vdproj", "{EF5DA355-133A-4FBF-A60B-4BD4AFB6750B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A42B690-DBF5-4641-9390-8FFB3E18A2A2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1A42B690-DBF5-4641-9390-8FFB3E18A2A2}.Debug|Win32.Build.0 = Debug|Win32
+		{1A42B690-DBF5-4641-9390-8FFB3E18A2A2}.Release|Win32.ActiveCfg = Release|Win32
+		{1A42B690-DBF5-4641-9390-8FFB3E18A2A2}.Release|Win32.Build.0 = Release|Win32
+		{EF5DA355-133A-4FBF-A60B-4BD4AFB6750B}.Debug|Win32.ActiveCfg = Debug
+		{EF5DA355-133A-4FBF-A60B-4BD4AFB6750B}.Release|Win32.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
